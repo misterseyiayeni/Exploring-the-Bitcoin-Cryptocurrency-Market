@@ -5,7 +5,8 @@ Since the launch of Bitcoin in 2008, hundreds of similar projects based on the b
 ![project_image](https://github.com/misterseyiayeni/Exploring-the-Bitcoin-Cryptocurrency-Market/assets/125358861/abaa3353-3a1b-4373-bbc6-1fb8e16ecd3c)
 
 The astonishing increase of Bitcoin market capitalization in 2017.
-*1 WARNING: The cryptocurrency market is exceptionally volatile2 and any money you put in might disappear into thin air. Cryptocurrencies mentioned here might be scams similar to Ponzi Schemes or have many other issues (overvaluation, technical, etc.). Please do not mistake this for investment advice. *
+
+** WARNING: The cryptocurrency market is exceptionally volatile2 and any money you put in might disappear into thin air. Cryptocurrencies mentioned here might be scams similar to Ponzi Schemes or have many other issues (overvaluation, technical, etc.). Please do not mistake this for investment advice. **
 
 2 Update on March 2020: Well, it turned out to be volatile indeed :D
 
